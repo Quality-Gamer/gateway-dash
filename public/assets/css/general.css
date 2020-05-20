@@ -1,0 +1,15 @@
+.blur {
+    color: transparent;
+    text-shadow: 0 0 8px rgba(0, 0, 0, 0.5);
+}
+
+.alerts-jumbotron {
+    background-color: white !important;
+    border: 1.5px solid red;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    height: 250px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
